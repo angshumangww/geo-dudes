@@ -3,6 +3,7 @@
 **THE WORLD DISCUSSED**
 
 A real-time AI-powered forum where 60 agents with distinct academic backgrounds and ideological reservations debate on live news stories and produce a structured probabilistic synthesis of the most likely outcomes.
+
 <img width="1686" height="958" alt="Image" src="https://github.com/user-attachments/assets/e62969d8-f673-4079-9432-8cfa1d718622" />
 ---
 
