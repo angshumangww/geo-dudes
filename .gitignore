@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 .env
 .env.txt
-server/data/
+server/data/topics.json
