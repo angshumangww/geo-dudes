@@ -202,7 +202,6 @@ Per full cycle (approximate):
 | NewsAPI | Free (100 req/day) |
 | **Total per cycle** | **~$0.10–0.25** |
 
-At 4 cycles/day: roughly $0.40–$1.00/day, or $12–30/month.
 
 ---
 
