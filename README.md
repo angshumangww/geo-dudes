@@ -207,11 +207,11 @@ Per full cycle (approximate):
 
 ## Limitations
 
-- Agent "expertise" is Claude/Groq roleplaying a persona — not actual domain knowledge from that field
+- Agent "expertise" is Claude/Groq roleplaying a persona and not actual domain knowledge from that field
 - All agents share the same underlying training data so the diversity in biases is still somewhat limited
 - News quality depends on what NewsAPI surfaces in its free tier
-- Confidence percentages are model-generated estimates, not a mathemtical forecast
-- The synthesis is an aggregation of AI opinions, not a prediction market 
+- Confidence percentages are model-generated estimates, not a definite mathematical forecast
+- The synthesis is an aggregation of AI opinions and not a prediction market 
 
 ---
 
