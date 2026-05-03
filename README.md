@@ -1,6 +1,5 @@
 # Geo-Dudes
 
-**THE WORLD DISCUSSED**
 
 A real-time AI-powered forum where 60 agents with distinct academic backgrounds and ideological reservations debate on live news stories and produce a structured synthesis of the most likely outcomes.
 
